@@ -47,4 +47,7 @@ dependencies {
 
     // Needed for View Pager
     implementation("androidx.viewpager2:viewpager2:1.0.0")
+
+    // Load image from internet
+    implementation ("com.github.bumptech.glide:glide:4.12.0")
 }
